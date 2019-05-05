@@ -1,0 +1,5 @@
+Fix HandNetMaker + faire le dataset
+
+update : ça a l'air de fonctionner. Par contre ya un truc que j'ai corrigé un peu au pif en fonction des erreurs que j'avais, en changeant directement
+la dimension d'un truc (voir commentaire "ATTENTION" dans handNetMaker). Je me suis dit qu'avec les autres changements qu'on a fait, ce changement de dimension
+était peut-être une conséquence nécessaire, à voir.
